@@ -45,7 +45,6 @@ document.addEventListener("DOMContentLoaded", () => {
   );
   scene.add(star);
 
-  // Spheres
   const orbitRadius = 4.5;
   const textures = [
     "./csilla/color.png",
